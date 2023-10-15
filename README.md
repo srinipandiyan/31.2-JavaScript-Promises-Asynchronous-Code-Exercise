@@ -26,7 +26,7 @@ Once you’ve solved this using promises continue to the next subunit and after 
 
 Here’s how this might look (with styling added):
 
-![cards.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b3ebce2a-49b6-466a-9a90-5c353e6dfd33/cards.gif)
+![Alt Text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b3ebce2a-49b6-466a-9a90-5c353e6dfd33/cards.gif)
 
 ## **Further Study**
 
